@@ -5,8 +5,8 @@ This project implements the classic guessing game from Chapter 2 of *The Rust Pr
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/guessing_game.git
-cd guessing_game
+git clone https://github.com/Dhruv26052005/number-guessing-game-Builders-Cohort.git
+cd number-guessing-game-Builders-Cohort
 cargo run
 ```
 
